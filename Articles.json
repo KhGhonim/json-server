@@ -7,6 +7,7 @@
         "id": "fortune",
         "name": "Fortune"
       },
+       "id": "1",
       "author": "Christiaan Hetzner",
       "title": "Elon Musk vows Bill Gates will be 'obliterated' if he doesn't stop shorting Tesla - Fortune",
       "catagory": "Technology",
@@ -21,6 +22,7 @@
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
+            "id": "2",
       "author": "Andrew Jeong, Taylor Telford",
       "title": "Paramount and Skydance reach tentative merger deal - The Washington Post",
 
@@ -37,6 +39,7 @@
         "id": "associated-press",
         "name": "Associated Press"
       },
+            "id": "3",
       "author": "MICHELLE CHAPMAN",
       "title": "Southwest Air adopts 'poison pill' as activist investor Elliott takes significant stake in company - The Associated Press",
       "catagory": "Politics",
@@ -55,7 +58,7 @@
       "author": "Irina Slav",
       "title": "Oil Prices Rise As EIA Confirms Huge Crude Draw | OilPrice.com - OilPrice.com",
       "catagory": "Business",
-
+      "id": "4",
       "description": "Oil prices rose on Wednesday morning after the EIA confirmed a very large draw in crude inventories",
       "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-As-EIA-Confirms-Huge-Crude-Draw.html",
       "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-07-03_mnvnf1hqbb.jpg",
@@ -70,7 +73,7 @@
       "author": "Joshua Franklin, George Steer",
       "title": "Kolanovic to leave JPMorgan after series of mistimed stock market calls - Financial Times",
       "catagory": "Politics",
-
+      "id": "5",
       "description": "Top analyst leaves US bank after bearish forecasts on S&P 500",
       "url": "https://www.ft.com/content/e7b4b034-b487-452b-b1f7-1c860454580a",
       "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9682284a-c13f-4f9e-81dd-6ed87f3ca267.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
@@ -85,7 +88,7 @@
       "author": "Reda Wigle",
       "title": "FDA bans brominated vegetable oil use in food, soda - New York Post",
       "catagory": "Health",
-
+      "id": "6",
       "description": "The Food and Drug Administration said Tuesday it is banning the use of BVO in food items effective Aug. 2.",
       "url": "https://nypost.com/2024/07/03/lifestyle/fda-bans-brominated-vegetable-oil-use-in-food-soda/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/agency-said-review-brominated-vegetable-84877682.jpg?quality=75&strip=all&w=1024",
@@ -101,7 +104,7 @@
       "author": "Eyewitness News",
       "title": "Delta Airlines flight to Amsterdam diverts to JFK Airport after spoiled food is served - WABC-TV",
       "catagory": "Technology",
-
+      "id": "7",
       "description": "Delta Airlines says a flight from Detroit to Amsterdam had to divert to JFK Airport early Wednesday morning because a portion of the in-flight meal service was spoiled.",
       "url": "https://abc7ny.com/post/flight-diverted-delta-airlines-flight-amsterdam-lands-jfk/15023649/",
       "urlToImage": "https://cdn.abcotvs.com/dip/images/5125890_020719-kgo-delta-napkin-img_Image_00-00-31,19.jpg?w=1600",
@@ -116,7 +119,7 @@
       "author": "Elizabeth Crisp",
       "title": "Fourth of July cookout costs hit record high: Survey - The Hill",
       "catagory": "Politics",
-
+      "id": "8",
       "description": "Inflation concerns are hitting the holiday table, with average Fourth of July cookout costs expected to soar to their highest level ever, according to new research. This year’s American Farm Bureau Fourth of July market basket survey found that the average co…",
       "url": "https://thehill.com/business/4753353-fourth-of-july-cookout-costs-hit-record-high-survey/mlite/",
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/AP21240656315975-e1720013275401.jpg?w=1280",
@@ -131,7 +134,7 @@
       "author": "Sara Salinas",
       "title": "Ford sales edge 1% higher in the second quarter, led by trucks - CNBC",
       "catagory": "Technology",
-
+      "id": "9",
       "description": "Ford truck sales of 308,920 vehicles marked the company's best second-quarter performance for the vehicle category since 2019.",
       "url": "https://www.cnbc.com/2024/07/03/ford-sales-q2-2024.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107424849-1717623828516-gettyimages-2156250892-dsc02210copy_iqfmjmjj.jpeg?v=1720018434&w=1920&h=1080",
@@ -146,7 +149,7 @@
       "author": "Ashley Killough, Ed Lavandera",
       "title": "As it gets hotter, 13,000 families in this pocket of America live without electricity - CNN",
       "catagory": "Health",
-
+      "id": "10",
       "description": "As global temperatures keep rising, the rush to fully electrify one of the poorest regions in the United States is more urgent than ever.",
       "url": "https://www.cnn.com/2024/07/03/us/navajo-nation-power-grid-connection/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/katherine-benally-2.jpg?c=16x9&q=w_800,c_fill",
@@ -161,7 +164,7 @@
       "author": "Morgan Smith",
       "title": "Gen Zers and millennials are 'quiet vacationing' during 4th of July week instead of taking PTO - CNBC",
       "catagory": "Politics",
-
+      "id": "11",
       "description": "Younger employees are “quiet vacationing” during the summer months to cope with constraints on PTO and increased feelings of burnout, according to new research.",
       "url": "https://www.cnbc.com/2024/07/03/gen-zers-millennials-quiet-vacation-during-fourth-of-july-week.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108000935-1719936077484-gettyimages-1319366474-286.jpeg?v=1719936242&w=1920&h=1080",
@@ -173,6 +176,7 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
+            "id": "12",
       "author": null,
       "title": "Gas prices rise as Americans hit the road for holiday weekend, with more increases expected - Yahoo Finance",
       "catagory": "Business",
@@ -191,7 +195,7 @@
       "author": "CBS News",
       "title": "FDA approves new Alzheimer's treatment, donanemab from Eli Lilly - CBS News",
       "catagory": "Health",
-
+      "id": "13",
       "description": null,
       "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZmRhLWFwcHJvdmVzLW5ldy1hbHpoZWltZXJzLXRyZWF0bWVudC1kb25hbmVtYWItZWxpLWxpbGx5L9IBW2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2ZkYS1hcHByb3Zlcy1uZXctYWx6aGVpbWVycy10cmVhdG1lbnQtZG9uYW5lbWFiLWVsaS1saWxseS8?oc=5",
       "urlToImage": null,
@@ -206,7 +210,7 @@
       "author": "Reuters",
       "title": "Constellation Brands beats quarterly profit estimates on strong beer business - Yahoo Finance",
       "catagory": "Business",
-
+      "id": "14",
       "description": "Corona beer maker Constellation Brands on Wednesday beat Wall Street estimates for first-quarter profit, helped by strong demand for its core beer brands...",
       "url": "https://finance.yahoo.com/news/constellation-brands-beats-quarterly-profit-121251302.html",
       "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/680b7a510328626eb7540282726a03a6",
@@ -221,7 +225,7 @@
       "author": null,
       "title": "Save Big With Our 66 Best July 4th Sales With Up to 70% off Home, Tech, Appliances and More - CNET",
       "catagory": "Technology",
-
+      "id": "15",
       "description": "Tons of different categories of items are on sale right now for the July 4th holiday. Here are our top deals across some of our favorite retailers.",
       "url": "https://www.cnet.com/deals/best-july-4th-sales-2024-07-03/",
       "urlToImage": "https://www.cnet.com/a/img/resize/8768ba9a9824b4fb5fb9170bf2ce8a841dccf12c/hub/2024/06/26/86e16dca-e9aa-4d81-aeb1-488a09e84f4c/promo-2.png?auto=webp&fit=crop&height=675&width=1200",
@@ -238,7 +242,7 @@
       "title": "Delta Airlines flight to Amsterdam diverts to JFK Airport after spoiled food is served - WABC-TV",
       "category": "Technology",
       "Youtube": "true",
-
+      "id": "17",
       "description": "Delta Airlines says a flight from Detroit to Amsterdam had to divert to JFK Airport early Wednesday morning because a portion of the in-flight meal service was spoiled.",
       "url": "https://abc7ny.com/post/flight-diverted-delta-airlines-flight-amsterdam-lands-jfk/15023649/",
       "urlToImage": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
@@ -256,7 +260,7 @@
       "description": "An in-depth analysis of the upcoming 2024 elections.",
       "url": "https://www.bbc.com/news/politics/15023649/",
       "Youtube": "true",
-
+      "id": "18",
       "urlToImage": "https://www.youtube.com/watch?v=4Zp4dMcZmHc",
       "publishedAt": "2024-07-02T10:15:30Z",
       "content": "BBC News provides an in-depth analysis of the upcoming 2024 elections, discussing the key candidates and issues at stake.… [+1024 chars]"
@@ -270,7 +274,7 @@
       "title": "Top 10 Goals of the Season",
       "category": "Sport",
       "Youtube": "true",
-
+      "id": "19",
       "description": "A compilation of the top 10 goals scored in the 2024 season.",
       "url": "https://www.espn.com/soccer/top10goals",
       "urlToImage": "https://www.youtube.com/watch?v=3yL71VQxe0Y",
@@ -286,7 +290,7 @@
       "title": "Benefits of a Balanced Diet",
       "category": "Health",
       "Youtube": "true",
-
+      "id": "20",
       "description": "Exploring the numerous benefits of maintaining a balanced diet.",
       "url": "https://www.healthline.com/nutrition/balanced-diet",
       "urlToImage": "https://www.youtube.com/watch?v=Z1QmeEdFOSc",
@@ -306,6 +310,8 @@
       "url": "https://www.cnbc.com/stock-market-update",
       "urlToImage": "https://www.youtube.com/watch?v=7Oe5T6Af95s",
       "publishedAt": "2024-06-29T12:00:00Z",
+            "id": "21",
+
       "content": "CNBC provides the latest updates and trends in the stock market for 2024, analyzing market movements and projections.… [+1034 chars]"
     },
     {
@@ -317,6 +323,7 @@
       "title": "Top 5 Gadgets of 2024",
       "category": "Technology",
       "Youtube": "true",
+      "id": "22",
 
       "description": "A review of the top 5 gadgets released in 2024.",
       "url": "https://techcrunch.com/top5gadgets2024",
